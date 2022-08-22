@@ -1,11 +1,11 @@
 import logo from "./logo.svg";
 import "./App.css";
-import VinReader from "./components/vinReader";
+import VinCard from "./components/VinCard";
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <VinReader />
+        <VinCard />
       </header>
     </div>
   );

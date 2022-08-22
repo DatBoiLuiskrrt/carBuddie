@@ -1,4 +1,4 @@
-const VinReader = () => {
+const VinCard = () => {
   return (
     <div>
       <h1>Hello</h1>
@@ -7,4 +7,4 @@ const VinReader = () => {
   );
 };
 
-export default VinReader;
+export default VinCard;
